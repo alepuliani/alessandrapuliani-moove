@@ -20,7 +20,7 @@ First, clone the GitHub repository to your local computer using the git clone co
 git clone https://github.com/alepuliani/alessandrapuliani-moove
 ```
 
-**2.Install dependencies**
+**2. Install dependencies**
 Once you've cloned the repository, navigate to the directory and install npm dependencies. 
 This command will install all dependencies listed in the package.json file necessary for the project.
 
@@ -28,3 +28,6 @@ This command will install all dependencies listed in the package.json file neces
 cd repository-name
 npm install
 ```
+
+**3. Use the project**
+Now you can verify the project's functionality by creating new instances and testing them and the methods through the browser or using the CodePen service where it has been uploaded: [https://codepen.io/Alessandra-p-the-encoder/pen/BaeJLOB]
