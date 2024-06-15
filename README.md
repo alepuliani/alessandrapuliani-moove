@@ -23,8 +23,6 @@ Once you've cloned the repository, navigate to the directory and install npm dep
 
 Click to copy:
 ```javascript
-utente1.noleggiaMezzo(Roma, scooter1);
-
 cd repository-name
 npm install
 
