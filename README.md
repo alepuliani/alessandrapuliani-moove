@@ -16,14 +16,15 @@ The organizational structure of Moove is created with Typescript and it focuses 
 **1. Clone the repository**
 First, clone the GitHub repository to your local computer using the git clone command. Replace <url-of-your-repository> with the actual URL of the GitHub repository:
 
+```javascript
 git clone https://github.com/alepuliani/alessandrapuliani-moove
+```
 
 **2.Install dependencies**
 Once you've cloned the repository, navigate to the directory and install npm dependencies. 
+This command will install all dependencies listed in the package.json file necessary for the project.
 
-Click to copy:
 ```javascript
 cd repository-name
 npm install
-
-This command will install all dependencies listed in the package.json file necessary for the project.
+```
