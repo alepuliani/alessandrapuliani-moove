@@ -20,8 +20,12 @@ git clone https://github.com/alepuliani/alessandrapuliani-moove
 
 **2.Install dependencies**
 Once you've cloned the repository, navigate to the directory and install npm dependencies. 
-bash
-Copy code
+
+Click to copy:
+```javascript
+utente1.noleggiaMezzo(Roma, scooter1);
+
 cd repository-name
 npm install
-This command will install all dependencies listed in the package.json file, including TypeScript and any other necessary libraries for the project.
+
+This command will install all dependencies listed in the package.json file necessary for the project.
