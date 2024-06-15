@@ -31,4 +31,4 @@ npm install
 
 **3. Use the project**
 
-Now you can verify the project's functionality by creating new instances and testing them and the methods through the browser or using the CodePen service where it has been uploaded: [https://codepen.io/Alessandra-p-the-encoder/pen/BaeJLOB]
+Now you can verify the project's functionality by creating new instances and testing them and the methods through the browser or using the CodePen service where it has been uploaded: https://codepen.io/Alessandra-p-the-encoder/pen/BaeJLOB
